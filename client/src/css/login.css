@@ -6,7 +6,7 @@
     justify-content: center;
     height: auto;
     flex-direction: column;
-    background: url('F:\3rd Year\fyp\Images\background.png') no-repeat center center ;
+    background: url('../../public/Images/background.png') no-repeat center center ;
     width: 100%; /* Set the width to 100% */
 }
 
@@ -27,7 +27,7 @@
     height: 71.5vh;
     
     flex-direction: column;
-    background: url('F:\3rd Year\fyp\Images\background.png') no-repeat center center ;
+    background: url('../../public/Images/background.png') no-repeat center center ;
     background-size: cover; 
     width: 100%; 
 
